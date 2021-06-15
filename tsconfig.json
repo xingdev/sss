@@ -14,9 +14,12 @@
     "outDir": "dist/lib",
     "typeRoots": [
       "node_modules/@types"
-    ]
+    ],
   },
   "include": [
     "src"
-  ]
+  ],
+  "extends": "@tsconfig/node14/tsconfig.json"
+
+  
 }
