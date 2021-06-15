@@ -1,6 +1,6 @@
 {
   "name": "typescript-sdk-demo",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "dist/typescript-sdk.umd.js",
